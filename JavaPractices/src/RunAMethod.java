@@ -1,9 +1,9 @@
-import collectionconcepts.ArrayListSamples;
+import collectionconcepts.ListSamples;
 
 public class RunAMethod {
 
 	public static void main(String[] args) {
-		ArrayListSamples samples = new ArrayListSamples();
+		ListSamples samples = new ListSamples();
 		samples.addToArrayList();
 	}
 
